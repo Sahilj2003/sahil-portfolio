@@ -2,6 +2,7 @@
 
 Hi, I'm Sahil 👋
 This is my personal portfolio website where I showcase my projects, skills, and journey as a Front-End Developer.
+(what I love the most is wherever I move the cursor eyes follows the cursor and reflection of computer and responsive desin WORK IN PHONE TOO)
 
 ---
 
@@ -13,7 +14,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch Demo] CLICK on LIVE Demo above link
 
 ---
 
@@ -21,15 +22,15 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 
 ### 🏠 Home Page
 
-![Home]('/Users/nitinjangra/Desktop/Screenshots/Screenshot 2026-04-02 at 10.08.31 PM.png')
+![Home](home.png)
 
 ### 💼 Projects Section
 
-![Projects](assets/images/projects.png)
+![Projects](work.png)
 
 ### 📬 Contact Section
 
-![Contact](assets/images/contact.png)
+![Contact](contact.png)
 
 ---
 
@@ -38,13 +39,14 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 * HTML5
 * CSS3
 * JavaScript
-* *(Add React / Tailwind if you used)*
+* React
+* UI/UX
 
 ---
 
 ## ✨ Features
 
-* Responsive design (mobile + desktop)
+* Responsive design (mobile + desktop) (Ys work in phone too)
 * Clean UI/UX
 * Smooth animations
 * Projects showcase
@@ -75,8 +77,8 @@ portfolio/
 
 ## 📬 Contact
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/Sahilj2003
+  
 
 ---
 
