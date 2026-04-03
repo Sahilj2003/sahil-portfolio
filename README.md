@@ -14,7 +14,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 
 ## 🎥 Demo Video
 
-[![Watch Demo] CLICK on LIVE Demo above link
+[![Watch Demo](https://img.youtube.com/vi/-1dsO3Gwkpg/0.jpg)](https://www.youtube.com/watch?v=-1dsO3Gwkpg)
 
 ---
 
